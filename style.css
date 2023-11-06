@@ -1,0 +1,11 @@
+/* 
+Small CSS file to change the size of the sliders 
+*/
+.sliderStyle
+{
+    width: 140px;
+}
+.sliderStyle::-webkit-slider-runnable-track
+{
+    cursor: pointer;
+}
